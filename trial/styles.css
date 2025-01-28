@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+h1,h2 {
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+}
+
+body{
+    max-width: 700px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.left{
+    color: yellowgreen;
+    text-align: left;
+}
+.center{
+    color: brown;
+    text-align: center;
+}
+.right{
+    color: chocolate;
+    text-align: right;
+}
